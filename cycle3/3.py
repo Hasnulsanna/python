@@ -1,0 +1,20 @@
+from graphics import *
+from graphics.dgraphics import *
+
+areaofcircle()
+print()
+perimeterofcircle()
+print()
+arearectangle()
+print()
+perirectangle()
+print()
+areasquare()
+print()
+perisquare()
+print()
+areacuboid()
+print()
+percuboid()
+print()
+areasphere()
